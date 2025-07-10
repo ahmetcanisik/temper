@@ -1,0 +1,12 @@
+/Users/canisik/Learn/rust/with/projects/temper/target/debug/deps/nix-5beae9d753bcb926.d: /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/lib.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/macros.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/errno.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/fcntl.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/mod.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/signal.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/time.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/unistd.rs
+
+/Users/canisik/Learn/rust/with/projects/temper/target/debug/deps/libnix-5beae9d753bcb926.rmeta: /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/lib.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/macros.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/errno.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/fcntl.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/mod.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/signal.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/time.rs /Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/unistd.rs
+
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/lib.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/macros.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/errno.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/fcntl.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/mod.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/signal.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/sys/time.rs:
+/Users/canisik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.30.1/src/unistd.rs:
